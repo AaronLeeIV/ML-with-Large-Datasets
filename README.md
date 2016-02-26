@@ -1,5 +1,9 @@
+<div align="center">
+    <img src="http://aaronleeiv.com/images/logo.png"><br><br>
+</div>
+
 # Machine Learning + Big Data
-Note : Revealed as public soon on Feb 27 2016
+**Note : Revealed as public soon on Feb 27 2016**
 
 Languages : Java, Python
 
