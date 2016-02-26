@@ -1,6 +1,5 @@
 # Machine Learning + Big Data
-
-Will be revealed as public soon.
+# Revealed as public soon on Feb 27 2016
 
 This repo is a documentation for the learning of Machine Learning of Large Datasets of the author
 
