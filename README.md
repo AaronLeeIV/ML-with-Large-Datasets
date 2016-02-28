@@ -3,14 +3,25 @@
 </div>
 
 # Machine Learning + Big Data
-**Note : Revealed as public soon on Feb 27 2016**
+** Note : Revealed on Feb 27 2016 **
 
 Languages : Java, Python
 
 This repo is a documentation for the learning of Machine Learning of Large Datasets of the author
 
-Want to learn the basics of large-scale data processing? 
-Need to make predictive models but don’t know the right tools? 
+> Large datasets are difficult to work with for several reasons.
 
-This course will introduce you to open source tools you can use for parallel, distributed and scalable machine learning.  
-After completing this course, you will be able to train, evaluate, and validate basic predictive models. You will be able to describe and apply common clustering techniques and classification algorithms.
+> They are difficult to visualize, and it is difficult to understand what sort of errors and biases are present in them. 
+
+> They are computationally expensive to process, and often the cost of learning is hard to predict - for instance, and algorithm that runs quickly in a dataset that fits in memory may be exorbitantly expensive when the dataset is too large for memory. 
+
+> Large datasets may also display qualitatively different behavior in terms of which learning methods produce the most accurate predictions. 
+
+> We need a practical knowledge of, and experience with, the issues involving large datasets, including:
+> scalable learning techniques, such as streaming machine learning techniques;
+
+> parallel infrastructures such as map-reduce; 
+
+> practical techniques for reducing the memory requirements for learning methods, such as feature hashing and Bloom filters;
+
+> techniques for analysis of programs in terms of memory, disk usage, and (for parallel methods) communication complexity.
