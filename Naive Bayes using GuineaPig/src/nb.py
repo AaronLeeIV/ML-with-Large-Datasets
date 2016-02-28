@@ -60,10 +60,10 @@ def tokenize(doc):
 
 def loadDictView(view):
 	# (key, val) dictionary wrapper from https://github.com/TeamCohen/GuineaPig/blob/master/tutorial/smallvoc-tfidf.py
-    result = dict()
-    for (key, val) in GPig.rowsOf(view):
-        result[key] = val
-    return result
+	result = dict()
+	for (key, val) in GPig.rowsOf(view):
+		result[key] = val
+	return result
 
 def compose(mList):
 	result = dict()
@@ -131,6 +131,6 @@ class NB(Planner):
 
 # always end like this
 if __name__ == "__main__":
-    NB().main(sys.argv)
+	NB().main(sys.argv)
 
 # supporting routines can go here
