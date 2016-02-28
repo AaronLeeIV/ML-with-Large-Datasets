@@ -1,5 +1,3 @@
-// package edu.cmu.cs.cs10605.hw1;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
